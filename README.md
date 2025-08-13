@@ -14,5 +14,5 @@ The visualization highlights key trends in age, gender, job classification, and 
 ### 📊 Dashboards
 ![UK Bank Customers Dashboard](https://github.com/Balaji1546/UK-bank-customer-data-Analysis./blob/main/Screenshot%202025-08-12%20102349.png)
 ![UK Bank Customers Dashboard](https://github.com/Balaji1546/UK-bank-customer-data-Analysis./blob/main/Screenshot%202025-08-12%20102437.png)
-![UK Bank Customers Dashboard](screenshots/dashboard1.png)
+![UK Bank Customers Dashboard](https://github.com/Balaji1546/UK-bank-customer-data-Analysis./blob/main/Screenshot%202025-08-13%20125155.png)
 
