@@ -1,13 +1,15 @@
 ## UK-bank-customer-data-Analysis.
 
-### Overview
+## Overview
 An interactive Tableau dashboard analyzing **UK bank customer demographics and account balances**.  
 The visualization highlights key trends in age, gender, job classification, and regional distribution.
 
-### Features
+## Features
 - **Age Distribution** – Pie chart visualization  
 - **Balance Segmentation** – High vs. Low balance analysis  
-- **Regional Trends** – Geographical breakdown of customers
+- **Regional Trends** – Geographical breakdown of customers  
+- **Job Classification Impact** – Balance trends by occupation type  
+
 
 ### 📊 Dashboards
 ![UK Bank Customers Dashboard](screenshots/dashboard1.png)
